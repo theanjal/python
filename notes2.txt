@@ -1,0 +1,14 @@
+file handling,
+create read mode
+append
+write
+constrains
+read line fun
+for loop
+delete
+empty folder deletion
+
+
+module
+calculator using module
+circle area
